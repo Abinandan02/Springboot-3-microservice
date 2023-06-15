@@ -1,0 +1,15 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = ./api-gateway
+[submodule "config-server"]
+	path = config-server
+	url = ./config-server
+[submodule "department-service"]
+	path = department-service
+	url = ./department-service
+[submodule "employee-service"]
+	path = employee-service
+	url = ./employee-service
+[submodule "service-registry"]
+	path = service-registry
+	url = ./service-registry
