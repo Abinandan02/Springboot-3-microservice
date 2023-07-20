@@ -2,7 +2,8 @@
 
 Architecture for a simple employee and department micro service connecting to service-registry, config-server, api-gateway and zipkin tracing.
 
-![ss1](https://github.com/Abinandan02/Springboot-3-microservice/assets/82743546/45cbf57d-e758-4603-8e76-ac0ab02faa76)
+![Controller](https://github.com/Abinandan02/springboot-3-microservice/assets/82743546/ecfaadc1-60ef-434e-9952-0cfa0f86e09b)
+
 
 Currently organization service is not created.
 
